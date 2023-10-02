@@ -1,0 +1,13 @@
+names:
+- not
+- pupil
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: eye-7ppji
+  url: https://universe.roboflow.com/flower-xgzgm/eye-7ppji/dataset/2
+  version: 2
+  workspace: flower-xgzgm
+test: ../test/images
+train: eye-2/train/images
+val: eye-2/valid/images
